@@ -2,3 +2,5 @@
 my first git, readme-branch changes
 
 hello everyone!
+
+i added branch2
